@@ -4,7 +4,8 @@
 
 ![Telnyx](/img/logo-dark.png)
 
-A PHP code sample to access the Phone number lookup API
+This PHP code allows developer to access the Phone number lookup API and lookup the phone number data.
+
 
 </div>
 
